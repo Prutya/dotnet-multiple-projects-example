@@ -1,0 +1,2 @@
+# .NET Core Multiple projects demo
+This is an implementation of [Unit Testing in .NET Core using dotnet test](https://docs.microsoft.com/en-us/dotnet/articles/core/testing/unit-testing-with-dotnet-test) article.
